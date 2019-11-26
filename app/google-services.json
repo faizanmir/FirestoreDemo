@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347839540527",
+    "firebase_url": "https://firestoredemo-9cf13.firebaseio.com",
+    "project_id": "firestoredemo-9cf13",
+    "storage_bucket": "firestoredemo-9cf13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347839540527:android:3d1a44d53d6bd4fc83c5da",
+        "android_client_info": {
+          "package_name": "avishkaar.com.firestoredemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347839540527-a9vrbok81tgslrjm5i0d8h3lj9ldj964.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "avishkaar.com.firestoredemo",
+            "certificate_hash": "4c04b9e862d218314b1cb756950239a3235f6ffd"
+          }
+        },
+        {
+          "client_id": "347839540527-ia00lgh4do9sbu3ptg628dlolhrb01d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4cZCcax93NNH1q9p8oy73tIJH4Z9sv34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347839540527-ia00lgh4do9sbu3ptg628dlolhrb01d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
